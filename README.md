@@ -1,1 +1,2 @@
 # FortranOpenMP
+今天是我第一次使用github，第一个Repository用来记录FortranOpenMP的学习
